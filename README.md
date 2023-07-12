@@ -12,3 +12,6 @@ The entire repo will get dropped into the directory and you'll be able to use th
 
 To pull the new code into the repo
     `git submodule update --recursive --remote --merge`
+
+To ignore the untracked content when you `git status`, in .gitmodules add to following to under the submodule
+    `ignore = untracked`
