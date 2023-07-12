@@ -1,7 +1,7 @@
 from flask import Flask
 
-from ChildProject.components import sorcery
 from ChildProject import food
+from ChildProject.components import sorcery
 
 app = Flask(__name__)
 

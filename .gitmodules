@@ -1,3 +1,0 @@
-[submodule "ChildProject"]
-	path = ChildProject
-	url = git@github.com:livialeekt/ChildProject.git
